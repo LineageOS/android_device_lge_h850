@@ -1,0 +1,7 @@
+# Bluetooth
+vendor/firmware/BCM4345C0_003.001.025.0101.LGE_Alice_NA_ORC.hcd
+
+# WiFi
+etc/firmware/fw_bcmdhd.bin
+etc/firmware/fw_bcmdhd_apsta.bin
+etc/firmware/fw_bcmdhd_mfg.bin
