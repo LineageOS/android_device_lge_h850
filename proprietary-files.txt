@@ -1,5 +1,5 @@
 # Bluetooth
-vendor/firmware/BCM4345C0_003.001.025.0101.LGE_Alice_NA_ORC.hcd
+vendor/firmware/BCM4345C0_003.001.025.0104.0142_Alice_ORC.hcd
 
 # WiFi
 etc/firmware/fw_bcmdhd.bin
