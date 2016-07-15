@@ -1,0 +1,8 @@
+# H850 Properties
+
+# Radio
+telephony.lteOnCdmaDevice=0
+persist.sys.cust.lte_config=true
+
+# Wifi
+wlan.chip.version=bcm43455
