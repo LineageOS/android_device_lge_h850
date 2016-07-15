@@ -1,8 +1,7 @@
-# H850 Properties
+#
+# System Properties for International LG G5
+#
 
 # Radio
-telephony.lteOnCdmaDevice=0
-persist.sys.cust.lte_config=true
-
-# Wifi
-wlan.chip.version=bcm43455
+ro.telephony.default_network=9
+telephony.lteOnGsmDevice=1
