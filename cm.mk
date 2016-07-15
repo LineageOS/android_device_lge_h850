@@ -14,5 +14,5 @@ PRODUCT_NAME := cm_h850
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="g5" \
     PRODUCT_NAME="h1_tmo_us" \
-    BUILD_FINGERPRINT="lge/h1_global_com/h1:6.0.1/MMB29M/160480003069c:user/release-keys" \
-    PRIVATE_BUILD_DESC="h1_global_com-user 6.0.1 MMB29M 160480003069c release-keys"
+    BUILD_FINGERPRINT="lge/h1_global_com/h1:6.0.1/MMB29M/16166143080f8:user/release-keys" \
+    PRIVATE_BUILD_DESC="h1_global_com-user 6.0.1 MMB29M 16166143080f8 release-keys"
