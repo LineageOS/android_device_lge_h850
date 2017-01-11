@@ -22,7 +22,7 @@ DEVICE_PATH := device/lge/h850
 TARGET_OTA_ASSERT_DEVICE := g5,h1,h850
 
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogenmod_h850_defconfig
+TARGET_KERNEL_CONFIG := lineageos_h850_defconfig
 
 # inherit from the proprietary version
 -include vendor/lge/h850/BoardConfigVendor.mk
