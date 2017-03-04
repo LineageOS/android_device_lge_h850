@@ -5,3 +5,6 @@
 # Radio
 ro.telephony.default_network=9
 telephony.lteOnGsmDevice=1
+
+#Expose aux camera for below packages
+camera.aux.packagelist=org.cyanogenmod.snap
