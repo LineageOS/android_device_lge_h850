@@ -20,6 +20,10 @@ DEVICE_PATH := device/lge/h850
 # inherit from common g5
 -include device/lge/g5-common/BoardConfigCommon.mk
 
+# Boot animation
+TARGET_SCREEN_HEIGHT := 2560
+TARGET_SCREEN_WIDTH := 1440
+
 TARGET_OTA_ASSERT_DEVICE := g5,h1,h850
 
 # Kernel
