@@ -3,5 +3,5 @@
 #
 
 # Radio
-ro.telephony.default_network=9
+ro.telephony.default_network=22
 telephony.lteOnGsmDevice=1
