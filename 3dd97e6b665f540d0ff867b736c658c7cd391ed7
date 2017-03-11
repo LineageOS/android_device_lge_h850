@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba57610f_eef73b8b",
+        "filename": "bluetooth/libbt_vndcfg.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2017-03-11T20:40:48Z",
+      "side": 1,
+      "message": "Does this finally actually load the address properly? If so we can get rid of hwaddr in msm8996-common",
+      "range": {
+        "startLine": 10,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 28
+      },
+      "revId": "3dd97e6b665f540d0ff867b736c658c7cd391ed7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba57610f_cef47789",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2017-03-11T20:40:48Z",
+      "side": 1,
+      "message": "IIRC this whole array is overridden by the one in msm8996-common anyway",
+      "range": {
+        "startLine": 41,
+        "startChar": 8,
+        "endLine": 41,
+        "endChar": 44
+      },
+      "revId": "3dd97e6b665f540d0ff867b736c658c7cd391ed7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
