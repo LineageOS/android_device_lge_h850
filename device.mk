@@ -23,10 +23,6 @@ $(call inherit-product-if-exists, vendor/lge/h850/h850-vendor.mk)
 # common g5
 $(call inherit-product, device/lge/g5-common/g5.mk)
 
-# Bluetooth
-PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/bluetooth/bt_vendor.conf:system/etc/bluetooth/bt_vendor.conf
-
 # Sensors
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/sensors/sensor_def_h1_global_com.conf:system/etc/sensors/sensor_def_variable.conf
