@@ -22,6 +22,10 @@ DEVICE_PATH := device/lge/h850
 
 TARGET_OTA_ASSERT_DEVICE := g5,h1,h850
 
+# Override this after to inheriting g5 common size
+# H850 system image partition is sized differently than US
+BOARD_SYSTEMIMAGE_PARTITION_SIZE := 4685037568
+
 # Kernel
 TARGET_KERNEL_CONFIG := lineageos_h850_defconfig
 
