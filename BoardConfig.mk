@@ -1,6 +1,6 @@
 #
 # Copyright (C) 2016 The CyanogenMod Project
-# Copyright (C) 2017 The LineageOS Project
+# Copyright (C) 2017-2018 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -33,9 +33,6 @@ TARGET_KERNEL_CONFIG := lineageos_h850_defconfig
 # h850 system image partition is sized differently than US variants
 BOARD_CACHEIMAGE_PARTITION_SIZE := 536870912
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 536870912
-
-# Properties
-TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 
 # inherit from the proprietary version
 -include vendor/lge/h850/BoardConfigVendor.mk
