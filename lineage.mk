@@ -9,7 +9,8 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 PRODUCT_NAME := lineage_h850
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_DEVICE="g5" \
+    TARGET_DEVICE="h1" \
+    PRODUCT_DEVICE="h1" \
     PRODUCT_NAME="h1_global_com" \
     PRIVATE_BUILD_DESC="h1_global_com-user 7.0 NRD90U 163041049db12 release-keys"
 
