@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8e726064_b479a003",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 19507
+      },
+      "writtenOn": "2018-08-07T05:22:26Z",
+      "side": 1,
+      "message": "Wasn\u0027t sure what to do with the two comments on L29 and L30. Suggestions?",
+      "revId": "3004cfe9f5f242313f94724d0dd6455e12d80f42",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
