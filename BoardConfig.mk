@@ -29,7 +29,7 @@ TARGET_KERNEL_CONFIG := lineageos_h850_defconfig
 # Override this after inheriting g5 common size
 # h850 system image partition is sized differently than US variants
 BOARD_CACHEIMAGE_PARTITION_SIZE := 536870912
-BOARD_SYSTEMIMAGE_PARTITION_SIZE := 536870912
+BOARD_SYSTEMIMAGE_PARTITION_SIZE := 4685037568
 
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
