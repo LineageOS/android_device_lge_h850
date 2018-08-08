@@ -21,6 +21,7 @@ DEVICE_PATH := device/lge/h850
 -include device/lge/g5-common/BoardConfigCommon.mk
 
 TARGET_OTA_ASSERT_DEVICE := g5,h1,h850
+TARGET_SYSTEM_PARTITION := /dev/sda13
 
 # Kernel
 TARGET_KERNEL_CONFIG := lineageos_h850_defconfig
