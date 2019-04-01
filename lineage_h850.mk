@@ -35,6 +35,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="h1" \
     PRODUCT_DEVICE="h1" \
     PRODUCT_NAME="h1_global_com" \
-    PRIVATE_BUILD_DESC="h1_global_com-user 7.0 NRD90U 163041049db12 release-keys"
+    PRIVATE_BUILD_DESC="h1_global_com-user 8.0.0 OPR1.170623.032 190380127377a release-keys"
 
-BUILD_FINGERPRINT := "lge/h1_global_com/h1:7.0/NRD90U/163041049db12:user/release-keys"
+BUILD_FINGERPRINT := "lge/h1_global_com/h1:8.0.0/OPR1.170623.032/190380127377a:user/release-keys"
