@@ -32,4 +32,4 @@ BOARD_CACHEIMAGE_PARTITION_SIZE := 536870912
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 4148166656
 
 # inherit from the proprietary version
--include vendor/lge/h850/BoardConfigVendor.mk
+include vendor/lge/h850/BoardConfigVendor.mk
