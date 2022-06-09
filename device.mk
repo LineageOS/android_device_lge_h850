@@ -26,6 +26,11 @@ $(call inherit-product, vendor/lge/h850/h850-vendor.mk)
 # Overlays (inherit after vendor/cm to ensure we override it)
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
+# GMS
+ifeq ($(WITH_GMS),true)
+GMS_MAKEFILE=gms_minimal.mk
+endif
+
 # common g5
 $(call inherit-product, device/lge/g5-common/g5.mk)
 
