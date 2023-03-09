@@ -1,5 +1,5 @@
 # Bluetooth
-vendor/firmware/BCM4345C0_003.001.025.0104.0142_Alice_ORC.hcd:vendor/firmware/BCM4345C0.hcd
+vendor/firmware/BCM4345C0_003.001.025.0104.0142_Alice_ORC.hcd:vendor/firmware/BCM43xx.hcd
 
 # Graphics - Firmware
 vendor/firmware/a530_gpmu.fw2
