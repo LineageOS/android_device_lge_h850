@@ -1,9 +1,6 @@
 ### All blobs from this list, unless pinned and noted as otherwise,
 ### are from from h1_global_com-user 8.0.0 OPR1.170623.032 1908116574a00 release-keys
 
-# Bluetooth
-vendor/firmware/BCM4345C0_003.001.025.0162.0295_LGE_Alice_Global_ORC.hcd:vendor/firmware/BCM43xx.hcd
-
 # Graphics - Firmware
 vendor/firmware/a530_gpmu.fw2
 vendor/firmware/a530_pfp.fw
