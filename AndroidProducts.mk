@@ -14,8 +14,3 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_h850.mk
-
-COMMON_LUNCH_CHOICES := \
-    lineage_h850-userdebug \
-    lineage_h850-eng
