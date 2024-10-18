@@ -32,9 +32,7 @@ PRODUCT_MODEL := LG-H850
 PRODUCT_MANUFACTURER := LGE
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    TARGET_DEVICE="h1" \
-    PRODUCT_DEVICE="h1" \
-    PRODUCT_NAME="h1_global_com" \
-    PRIVATE_BUILD_DESC="h1_global_com-user 8.0.0 OPR1.170623.032 1908116574a00 release-keys"
-
-BUILD_FINGERPRINT := "lge/h1_global_com/h1:8.0.0/OPR1.170623.032/1908116574a00:user/release-keys"
+    BuildDesc="h1_global_com-user 8.0.0 OPR1.170623.032 1908116574a00 release-keys" \
+    BuildFingerprint="lge/h1_global_com/h1:8.0.0/OPR1.170623.032/1908116574a00:user/release-keys" \
+    DeviceName="h1_global_com" \
+    DeviceProduct="h1"
