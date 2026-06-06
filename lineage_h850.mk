@@ -34,5 +34,6 @@ PRODUCT_MANUFACTURER := LGE
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="h1_global_com-user 8.0.0 OPR1.170623.032 1908116574a00 release-keys" \
     BuildFingerprint="lge/h1_global_com/h1:8.0.0/OPR1.170623.032/1908116574a00:user/release-keys" \
-    DeviceName="h1_global_com" \
+    SystemDevice="h1_global_com" \
+    SystemName="h1_global_com" \
     DeviceProduct="h1"
